@@ -1,0 +1,12 @@
+build tailwind css 
+# tailwind build tailwind.css -o src/assets/style.css
+tailwind css 
+1 init tailwind config
+# npx tailwind init
+2 see file tailwind.config.js
+
+applycss 
+see file tailwind.css
+
+link : https://www.youtube.com/watch?v=UBOj6rqRUME
+source : https://codepen.io/bradtraversy/pen/JgXqBL
